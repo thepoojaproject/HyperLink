@@ -154,7 +154,7 @@ footer span {
 </div>
 
 <footer>
-    Made in <span>❤</span> for Pooja
+    Made in ❤ for Pooja
 </footer>
 
 <script>
@@ -196,4 +196,3 @@ function toggleTheme() {
 
 </body>
 </html>
-# HyperLink
